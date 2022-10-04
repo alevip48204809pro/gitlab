@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+dataproject
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    operetor
+  </body>
+</html>
+operetorproject
+operetor
+javaoperetor
+textoperetor
